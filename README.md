@@ -1,4 +1,4 @@
-# vue-expense-tracker
+# Vue Expense Tracker
 
 ## Project Setup
 
