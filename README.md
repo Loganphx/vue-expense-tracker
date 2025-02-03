@@ -28,5 +28,5 @@ npm run dev
 npm run build
 ```
 
-![Alt text](screenshot.png)
+![Alt text](src/screenshot.png)
 
